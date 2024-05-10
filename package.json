@@ -1,0 +1,20 @@
+{
+  "name": "laoliangfe-utils",
+  "version": "1.0.0",
+  "description": "前端工具函数库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "love2157dream",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/love2157dream/laoliangfe-utils.git"
+  },
+  "keywords": ["utils", "format", "money", "phone"],
+  "homepage": "",
+  "bugs": {
+    "url": "https://github.com/love2157dream/laoliangfe-utils/issues"
+  }
+}
