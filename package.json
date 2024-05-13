@@ -1,6 +1,6 @@
 {
   "name": "laoliangfe-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "前端工具函数库",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,12 @@
     "type": "git",
     "url": "git+https://github.com/love2157dream/laoliangfe-utils.git"
   },
-  "keywords": ["utils", "format", "money", "phone"],
+  "keywords": [
+    "utils",
+    "format",
+    "money",
+    "phone"
+  ],
   "homepage": "",
   "bugs": {
     "url": "https://github.com/love2157dream/laoliangfe-utils/issues"
